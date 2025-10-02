@@ -1,5 +1,6 @@
 {
   "name": "Trigger.dark",
+  "$schema": "vscode://schemas/color-theme",
   "colors": {
     "actionBar.toggledBackground": "#383a49",
     "scrollbarSlider.background": "#878c993f",
@@ -201,6 +202,13 @@
       ],
       "settings": {
         "foreground": "#9ED66B"
+      }
+    },
+    {
+      "name": "Asynchronous Programming Keywords JS",
+      "scope": ["storage.modifier.async.js", "storage.modifier.async.ts"],
+      "settings": {
+        "foreground": "#D886FF"
       }
     },
 
