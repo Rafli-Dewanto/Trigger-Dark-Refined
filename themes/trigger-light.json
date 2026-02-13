@@ -1,5 +1,5 @@
 {
-  "name": "Trigger.dark",
+  "name": "Trigger Light",
   "$schema": "vscode://schemas/color-theme",
   "colors": {
     "actionBar.toggledBackground": "#bcc0cc",
