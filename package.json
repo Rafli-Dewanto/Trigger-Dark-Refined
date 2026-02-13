@@ -50,7 +50,7 @@
         "path": "./themes/trigger-dark-midnight.json"
       },
       {
-        "label": "Trigger.darker",
+        "label": "Trigger Darker",
         "uiTheme": "vs-dark",
         "path": "./themes/trigger-darker.json"
       },
@@ -58,6 +58,11 @@
         "label": "Trigger",
         "uiTheme": "vs-dark",
         "path": "./themes/trigger.json"
+      },
+      {
+        "label": "Trigger Light",
+        "uiTheme": "vs",
+        "path": "./themes/trigger-light.json"
       }
     ]
   },
