@@ -2,7 +2,7 @@
   "name": "trigger-dark-refined",
   "displayName": "Trigger Dark Refined",
   "description": "A sleek, modern dark theme for Visual Studio Code inspired by Trigger aesthetics",
-  "version": "2.2.8",
+  "version": "2.2.9",
   "publisher": "dewantorafli",
   "author": {
     "name": "Rafli Dewanto",
@@ -63,6 +63,16 @@
         "label": "Trigger Light",
         "uiTheme": "vs",
         "path": "./themes/trigger-light.json"
+      },
+      {
+        "label": "Trigger Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/trigger-blue.json"
+      },
+      {
+        "label": "Trigger Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/trigger-black.json"
       }
     ]
   },
